@@ -1,0 +1,11 @@
+matplotlib==3.9.2
+numpy==2.1.2
+pandas==2.2.3
+PyYAML==6.0.2
+requests==2.32.3
+scikit-learn==1.5.2
+tensorboard==2.18.0
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+wandb==0.18.5
